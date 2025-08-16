@@ -1,0 +1,7 @@
+__pycache__
+.wwebjs_cache
+node_modules
+ws 
+combined.log
+error.log
+.env
